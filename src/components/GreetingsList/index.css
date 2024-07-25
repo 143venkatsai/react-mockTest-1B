@@ -1,0 +1,25 @@
+.greetings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #1e293b;
+  margin-top: 40px;
+}
+
+.greetings-tab-list {
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.filter-image {
+  height: 380px;
+  width: 280px;
+}
